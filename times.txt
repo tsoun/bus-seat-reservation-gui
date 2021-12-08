@@ -1,0 +1,6 @@
+##poleis: Athina, Thessaloniki,Larisa, Volos, Iwannina, Trikala, Xalkida, Serres, Alex/polh, Janthi, Tripoli, Mesologgi, Korinthos, Aigio, Nauplio
+## xlm: 211, 462, 331, 304, 217, 328, 274, 548(550), 765, 664, 204, 46, 132, 40, 185
+## arxikh timi = 10
+##Suntelesthhs = +0.25/50xlm, arxizontas apo ta 100xlm
+
+TicketPrice = [17.5, 30, 22.5, 22.5, 17.5, 22.5, 20, 35, 45, 40, 17.5, 10, 12.5, 10, 15 ]
